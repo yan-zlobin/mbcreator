@@ -35,7 +35,7 @@ Magic Book Creator is a new Integrated Development Environment I'm developing sp
 * The structure of the text as a tree
 * Templates for Notes (the plan, characters, locations, scenes)
 
-#For publishers
+##For publishers
 
 * Export to electronic formats with validation (fb2, epub)
 * Library books
